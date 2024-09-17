@@ -77,9 +77,6 @@ To learn more about DNS functionality, malicious URL generation, and the machine
 ## Contributing
 URL Genie is open to any contributions. Please fork the repository and make a pull request with the features or fixes you want to be implemented.
 
-## Special Thanks
-This project is a customized and enhanced derivative of a combination of previous research conducted by [Deepesh Mhatre](https://github.com/deepeshdm/Phishing-Attack-Domain-Detection) and [Suryansh S.](https://towardsdatascience.com/gas-and-nns-6a41f1e8146d) Please feel free to show your support by checking out their projects and profiles!
-
 ## Support
 If you enjoyed this project, please consider [becoming a sponsor](https://github.com/sponsors/ANG13T) in order to fund my future projects. 
 
