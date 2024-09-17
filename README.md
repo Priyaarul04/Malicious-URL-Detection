@@ -77,9 +77,5 @@ To learn more about DNS functionality, malicious URL generation, and the machine
 ## Contributing
 URL Genie is open to any contributions. Please fork the repository and make a pull request with the features or fixes you want to be implemented.
 
-## Support
-If you enjoyed this project, please consider [becoming a sponsor](https://github.com/sponsors/ANG13T) in order to fund my future projects. 
-
-To check out my other works, visit my [GitHub profile](https://github.com/ANG13T).
 =======
 >>>>>>> ebe3b3781fed9a806e873242ffdf5a64687f0bda
